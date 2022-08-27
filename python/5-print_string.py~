@@ -1,5 +1,0 @@
-#!/usr/bin/python3
-str = "Holberton School"
-string = 3 * srt
-print (f"{string}")
-print (string[:9])
